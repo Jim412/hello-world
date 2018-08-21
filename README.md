@@ -1,2 +1,6 @@
 # hello-world
-my first repository
+
+I love my golden retrievers.
+
+Codeacademy sent me here.
+
